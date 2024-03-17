@@ -1,0 +1,63 @@
+.container-1{
+    height: fit-content;
+}
+
+.container-2{
+    background-image: url(../assets/banner_wallpaper.svg);
+    height:450px;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.container-text{
+    width: 50%;
+}
+
+.description-text{
+    color : antiquewhite;
+    text-wrap: wrap;
+}
+
+.container-text-insidediv{
+    width: 80%;
+    margin: auto;
+}
+
+.container-image-div{
+    display: flex;
+    width: 50%;
+}
+
+.container-image{
+    height: 50%;
+    margin: auto;
+}
+
+.contact-button{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+}
+
+.icon-css{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    background-color: antiquewhite;
+    border-radius: 20px 
+}
+
+.icon-css2{
+    padding-left: 5px;
+    margin: 5px;
+    padding-right: 5px;
+    transition: 1s;
+}
+
+.icon-css2:hover{
+    transform: scale(1.5);
+}
+
+
+

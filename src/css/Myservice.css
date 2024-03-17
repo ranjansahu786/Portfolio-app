@@ -1,0 +1,15 @@
+.card-main-div{
+    display: flex;
+    justify-content: center;
+}
+
+.each-card{
+    margin: auto;
+    padding: 2px;
+}
+
+.img{
+    width: 70%;
+    height: 50%;
+    margin-left: 30px;
+}
